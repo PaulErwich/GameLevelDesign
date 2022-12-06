@@ -2132,3 +2132,295 @@ Script Stack (0 frames):
 [2022.12.06-14.47.33:049][326]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487825001_1197176531
 [2022.12.06-14.47.33:049][326]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0897986C5487845001_1547665884
 [2022.12.06-14.47.33:085][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.06-14.49.36:724][ 99]LogViewport: Scene viewport resized to 1409x853, mode Windowed.
+[2022.12.06-14.50.41:376][696]LogViewport: Scene viewport resized to 1879x853, mode Windowed.
+[2022.12.06-14.50.52:041][928]Cmd: DUPLICATE
+[2022.12.06-14.50.52:041][928]Cmd: ACTOR DUPLICATE
+[2022.12.06-14.51.00:925][117]Cmd: DELETE
+[2022.12.06-14.51.00:926][117]Cmd: ACTOR DELETE
+[2022.12.06-14.51.01:142][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.06-14.51.01:224][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.12.06-14.51.01:226][117]LogEditorActor: Deleted 1 Actors (0.299 secs)
+[2022.12.06-14.52.20:116][881]Cmd: TRANSACTION UNDO
+[2022.12.06-14.52.20:116][881]LogEditorTransaction: Undo Move Elements
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:543][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:544][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:545][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:546][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:546][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:546][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:546][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:546][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.01:546][805]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:334][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.11:335][102]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.12.06-14.53.41:047][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.06-14.53.41:199][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CG/TBX9EBE9051ZKN8PBK9PTW_Auto5
+[2022.12.06-14.53.41:200][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/TBX9EBE9051ZKN8PBK9PTW_Auto5B0D2BFD043CBAEA8504E7BAD69738EB9.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CG/TBX9EBE9051ZKN8PBK9PTW_Auto5.uasset'
+[2022.12.06-14.53.41:227][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EW/C4QYAIFZ1U2VLQW9YLQH4K_Auto5
+[2022.12.06-14.53.41:227][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/C4QYAIFZ1U2VLQW9YLQH4K_Auto5C7A8946748D80882E369A6BD6B9B2336.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EW/C4QYAIFZ1U2VLQW9YLQH4K_Auto5.uasset'
+[2022.12.06-14.53.41:249][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RH/0L79TUL3VU2Y9I706STBIO_Auto5
+[2022.12.06-14.53.41:249][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/0L79TUL3VU2Y9I706STBIO_Auto58A67AD584DAE5EFE8E076CB35F40ABC5.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RH/0L79TUL3VU2Y9I706STBIO_Auto5.uasset'
+[2022.12.06-14.53.41:284][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/13/GQU9O3M8L83CFM470Y2NSY_Auto5
+[2022.12.06-14.53.41:285][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/GQU9O3M8L83CFM470Y2NSY_Auto5554835DC4CC5401E0D77E0B7241EA63E.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/13/GQU9O3M8L83CFM470Y2NSY_Auto5.uasset'
+[2022.12.06-14.53.41:307][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CS/OU8I2K1KBQHF3UP6MO3U9C_Auto5
+[2022.12.06-14.53.41:308][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/OU8I2K1KBQHF3UP6MO3U9C_Auto5C112F9654340B50EDF6EF59052FA0887.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CS/OU8I2K1KBQHF3UP6MO3U9C_Auto5.uasset'
+[2022.12.06-14.53.41:324][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/5KEXE64LSR6D0J9MCLW7IE_Auto5
+[2022.12.06-14.53.41:324][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/5KEXE64LSR6D0J9MCLW7IE_Auto5273FE75C40864BAE75C39C9CF6E0A683.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/5KEXE64LSR6D0J9MCLW7IE_Auto5.uasset'
+[2022.12.06-14.53.41:341][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W6/SBC25UCJF969V5JLVUZNHR_Auto5
+[2022.12.06-14.53.41:357][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/SBC25UCJF969V5JLVUZNHR_Auto5A9A9157641E861069D2152865B8128E8.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W6/SBC25UCJF969V5JLVUZNHR_Auto5.uasset'
+[2022.12.06-14.53.41:432][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4H/XL6NLCMDOVXIR89OKZG91Z_Auto5
+[2022.12.06-14.53.41:432][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/XL6NLCMDOVXIR89OKZG91Z_Auto5985C4F7F4126DB870EC52CB21873C8DC.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4H/XL6NLCMDOVXIR89OKZG91Z_Auto5.uasset'
+[2022.12.06-14.53.41:442][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HF/P9OD4D2QCET62YEVAHGRUL_Auto5
+[2022.12.06-14.53.41:443][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/P9OD4D2QCET62YEVAHGRUL_Auto502C253AF46C71178A3D9B79A7E395663.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HF/P9OD4D2QCET62YEVAHGRUL_Auto5.uasset'
+[2022.12.06-14.53.41:450][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TX/I313647906LZ1I7JVGCMCD_Auto5
+[2022.12.06-14.53.41:450][809]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/I313647906LZ1I7JVGCMCD_Auto53805113F4F0EEDB1C491ADBB8C4E3689.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TX/I313647906LZ1I7JVGCMCD_Auto5.uasset'
+[2022.12.06-14.53.41:451][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.441
+[2022.12.06-14.53.41:451][809]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.441
+[2022.12.06-14.54.34:245][ 65]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Display: GetPartitionedActors took 84 us
+[2022.12.06-14.54.34:257][ 65]LogWorldPartition: Display: GenerateStreaming took 421 us
+[2022.12.06-14.54.34:257][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-14.54.34:258][ 65]PIE: New page: PIE session: ThirdPersonMap (6 Dec 2022, 14:54:34)
+[2022.12.06-14.54.34:258][ 65]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.06-14.54.34:267][ 65]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.06-14.54.34:268][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010435s)
+[2022.12.06-14.54.34:268][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010510s)
+[2022.12.06-14.54.34:268][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-14.54.34:268][ 65]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.06-14.54.34:269][ 65]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.06-14.54.34:269][ 65]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.06-14.54.34:270][ 65]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.06-14.54.34:270][ 65]LogPlayLevel: PIE: World Init took: (0.002796s)
+[2022.12.06-14.54.34:310][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.12.06-14.54.34:312][ 65]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-14.54.34:312][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-14.54.34:312][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-14.54.34:313][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-14.54.34:313][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-14.54.34:313][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-14.54.34:315][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-14.54.34:345][ 65]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.06-14.54.34:346][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-14.54.34:346][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-14.54.34:346][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-14.54.34:347][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.12.06-14.54.34:347][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.12.06-14.54.34:349][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.12.06-14.54.34:349][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.12.06-14.54.34:349][ 65]LogInit: FAudioDevice initialized.
+[2022.12.06-14.54.34:349][ 65]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2022.12.06-14.54.34:361][ 65]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.06-14.54.34:396][ 65]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.06-14.54.34
+[2022.12.06-14.54.34:397][ 65]LogWorld: Bringing up level for play took: 0.035508
+[2022.12.06-14.54.34:399][ 65]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.12.06-14.54.34:402][ 65]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-40.000 Y=-3460.000 Z=142.000
+[2022.12.06-14.54.34:403][ 65]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.06-14.54.34:403][ 65]PIE: Server logged in
+[2022.12.06-14.54.34:403][ 65]PIE: Play in editor total start time 0.151 seconds.
+[2022.12.06-14.57.13:096][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-14.57.13:096][922]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.06-14.57.13:097][922]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-14.57.13:101][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-14.57.13:122][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-14.57.13:132][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-14.57.13:173][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-14.57.13:174][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.12.06-14.57.13:175][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.12.06-14.57.13:180][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-14.57.13:199][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.06-14.57.13:325][923]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.12.06-15.03.58:530][339]LogSlate: Window 'BasicHouse' being destroyed
+[2022.12.06-15.03.58:543][339]LogSlate: Window 'BasicHouse' being destroyed
+[2022.12.06-15.03.58:614][339]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.03.58:614][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.04.00:610][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.06-15.04.02:209][376]LogSlate: Window 'Save Content' being destroyed
+[2022.12.06-15.04.02:331][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicHouse" FILE="../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/BasicHouse.uasset" SILENT=true
+[2022.12.06-15.04.02:386][376]LogSavePackage: Moving output files for package: /Game/BasicHouse
+[2022.12.06-15.04.02:386][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/BasicHouseC95D4AE9490FF00731E5F885F443A69D.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/BasicHouse.uasset'
+[2022.12.06-15.04.02:420][376]LogSavePackage: Moving output files for package: /Game/Fracture/BasicHouse_GeometryCollection
+[2022.12.06-15.04.02:420][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/BasicHouse_GeometryCollection33B6B130428A951D905F728DC5766D01.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/Fracture/BasicHouse_GeometryCollection.uasset'
+[2022.12.06-15.04.02:449][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fracture/BasicHouseFracture" FILE="../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/Fracture/BasicHouseFracture.uasset" SILENT=true
+[2022.12.06-15.04.02:544][376]LogSavePackage: Moving output files for package: /Game/Fracture/BasicHouseFracture
+[2022.12.06-15.04.02:544][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/BasicHouseFractureF72832B64F4416F59F3390BEB5E67534.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/Fracture/BasicHouseFracture.uasset'
+[2022.12.06-15.04.02:546][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/4X/IHO18ESG2AN9K5VQ436FEN
+[2022.12.06-15.04.02:547][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/IHO18ESG2AN9K5VQ436FEN4CDD6CF448E6C7B1494AA5A28168266C.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/4X/IHO18ESG2AN9K5VQ436FEN.uasset'
+[2022.12.06-15.04.02:552][376]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/perwi/CubeGridToolOutput_74ACDAC5
+[2022.12.06-15.04.02:552][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/CubeGridToolOutput_74ACDAC58BA283C844CEB3FE7FF6A09393EDF02A.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/ThirdPerson/Maps/_GENERATED/perwi/CubeGridToolOutput_74ACDAC5.uasset'
+[2022.12.06-15.04.02:555][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EW/C4QYAIFZ1U2VLQW9YLQH4K
+[2022.12.06-15.04.02:556][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/C4QYAIFZ1U2VLQW9YLQH4K702369474C3CF10ACCA2CFB1FDBECE84.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EW/C4QYAIFZ1U2VLQW9YLQH4K.uasset'
+[2022.12.06-15.04.02:567][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/13/GQU9O3M8L83CFM470Y2NSY
+[2022.12.06-15.04.02:569][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/GQU9O3M8L83CFM470Y2NSYA5A46D32476BC8FD22F6B18444492187.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/13/GQU9O3M8L83CFM470Y2NSY.uasset'
+[2022.12.06-15.04.02:586][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RH/0L79TUL3VU2Y9I706STBIO
+[2022.12.06-15.04.02:587][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/0L79TUL3VU2Y9I706STBIOFB59155745CE849955EDF6B61C1B2E7F.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RH/0L79TUL3VU2Y9I706STBIO.uasset'
+[2022.12.06-15.04.02:593][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CS/OU8I2K1KBQHF3UP6MO3U9C
+[2022.12.06-15.04.02:594][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/OU8I2K1KBQHF3UP6MO3U9C376618734CB591D8258E6F8321EE4E22.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CS/OU8I2K1KBQHF3UP6MO3U9C.uasset'
+[2022.12.06-15.04.02:604][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W6/SBC25UCJF969V5JLVUZNHR
+[2022.12.06-15.04.02:605][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/SBC25UCJF969V5JLVUZNHRC9155850431B1A21618EFE9517F0C6C7.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W6/SBC25UCJF969V5JLVUZNHR.uasset'
+[2022.12.06-15.04.02:614][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HF/P9OD4D2QCET62YEVAHGRUL
+[2022.12.06-15.04.02:615][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/P9OD4D2QCET62YEVAHGRUL5727B38F4CB6B18D6C47CE9B14F8523B.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HF/P9OD4D2QCET62YEVAHGRUL.uasset'
+[2022.12.06-15.04.02:623][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4H/XL6NLCMDOVXIR89OKZG91Z
+[2022.12.06-15.04.02:624][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/XL6NLCMDOVXIR89OKZG91ZCFDB34FF4F93A0AA7C37CD844C8A3E70.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4H/XL6NLCMDOVXIR89OKZG91Z.uasset'
+[2022.12.06-15.04.02:630][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TX/I313647906LZ1I7JVGCMCD
+[2022.12.06-15.04.02:631][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/I313647906LZ1I7JVGCMCD96C1BB2747B36C87106E3A85FAF3F114.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TX/I313647906LZ1I7JVGCMCD.uasset'
+[2022.12.06-15.04.02:640][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CG/TBX9EBE9051ZKN8PBK9PTW
+[2022.12.06-15.04.02:641][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/TBX9EBE9051ZKN8PBK9PTW5F358291431E434B689FFE8E56214191.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CG/TBX9EBE9051ZKN8PBK9PTW.uasset'
+[2022.12.06-15.04.02:646][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/5KEXE64LSR6D0J9MCLW7IE
+[2022.12.06-15.04.02:647][376]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/5KEXE64LSR6D0J9MCLW7IE45F543E0494B7965AD6615BF0142AE33.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/5KEXE64LSR6D0J9MCLW7IE.uasset'
+[2022.12.06-15.04.02:688][376]LogStall: Shutdown...
+[2022.12.06-15.04.02:703][376]LogStall: Shutdown complete.
+[2022.12.06-15.04.02:809][376]LogSlate: Window 'GameLevelDesign - Unreal Editor' being destroyed
+[2022.12.06-15.04.03:208][376]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_2_1_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating Landscape /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Landscape_UAID_0897986C5487DE4901_2031610319
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_0_1_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_0_0_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0897986C5487ED4901_1193259968
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_0_2_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_2_2_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_1_0_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_1_2_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_1_1_0
+[2022.12.06-15.04.03:208][376]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_2_0_0
+[2022.12.06-15.04.03:209][376]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/Maps/_GENERATED/perwi/CubeGridToolOutput_74ACDAC5.CubeGridToolOutput_74ACDAC5
+[2022.12.06-15.04.03:209][376]LogContentValidation: Display: Validating Blueprint /Game/BasicHouse.BasicHouse
+[2022.12.06-15.04.03:209][376]LogContentValidation: Display: Validating GeometryCollection /Game/Fracture/BasicHouseFracture.BasicHouseFracture
+[2022.12.06-15.04.03:209][376]LogContentValidation: Display: Validating GeometryCollection /Game/Fracture/BasicHouse_GeometryCollection.BasicHouse_GeometryCollection
+[2022.12.06-15.04.03:210][377]Cmd: QUIT_EDITOR
+[2022.12.06-15.04.03:222][377]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.06-15.04.03:279][377]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.06-15.04.03:289][377]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.06-15.04.03:306][377]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.06-15.04.03:892][377]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.06-15.04.03:892][377]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.06-15.04.03:892][377]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2022.12.06-15.04.03:904][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.06-15.04.03:907][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.06-15.04.03:943][377]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.06-15.04.03:997][377]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.06-15.04.04:116][377]LogExit: Preparing to exit.
+[2022.12.06-15.04.04:210][377]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0897986C5487845001_1815129885 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0T/UH1FER4QFUAQ3ORO35185X.PackageMetaData in its package
+[2022.12.06-15.04.04:504][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.12.06-15.04.04:546][377]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:546][377]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:549][377]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:550][377]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:550][377]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:550][377]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:550][377]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:551][377]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:551][377]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:551][377]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.04:551][377]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.06-15.04.06:021][377]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.04.06:028][377]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.04.06:032][377]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.04.06:040][377]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.04.06:043][377]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.04.06:162][377]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.04.06:889][377]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.06-15.04.06:918][377]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.06-15.04.06:982][377]LogExit: Editor shut down
+[2022.12.06-15.04.07:066][377]LogExit: Transaction tracking system shut down
+[2022.12.06-15.04.07:166][377]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
