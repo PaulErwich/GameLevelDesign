@@ -2712,3 +2712,550 @@ Script Stack (0 frames):
 [2023.01.22-13.37.43:339][453]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
 [2023.01.22-13.37.43:343][453]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_1629816821
 [2023.01.22-13.37.43:344][453]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_1629816821
+[2023.01.22-13.42.48:860][829]Cmd: DUPLICATE
+[2023.01.22-13.42.48:860][829]Cmd: ACTOR DUPLICATE
+[2023.01.22-13.43.29:060][412]Cmd: DUPLICATE
+[2023.01.22-13.43.29:060][412]Cmd: ACTOR DUPLICATE
+[2023.01.22-13.44.10:206][  8]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.44.10:206][  8]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.44.10:207][  8]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_8
+[2023.01.22-13.44.10:208][  8]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_8
+[2023.01.22-13.44.11:643][ 31]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.44.11:643][ 31]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.44.11:645][ 31]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_2018119870
+[2023.01.22-13.44.11:646][ 31]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_2018119870
+[2023.01.22-13.45.04:987][746]Cmd: DUPLICATE
+[2023.01.22-13.45.04:987][746]Cmd: ACTOR DUPLICATE
+[2023.01.22-13.48.58:635][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.48.58:636][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.48.58:637][499]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_9
+[2023.01.22-13.48.58:638][499]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_9
+[2023.01.22-13.49.01:539][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.49.01:539][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level/MissionTrigger.MissionTrigger_C
+[2023.01.22-13.49.01:542][544]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487475F01_1234274048
+[2023.01.22-13.49.01:543][544]LogActorFactory: Actor Factory spawned Blueprint /Game/Level/MissionTrigger.MissionTrigger as actor: MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487475F01_1234274048
+[2023.01.22-13.50.01:895][563]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.01.22-13.50.01:895][563]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.01.22-13.50.14:883][787]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.01.22-13.50.14:883][787]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.01.22-13.50.46:082][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.22-13.50.46:149][331]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.22-13.50.46:149][331]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.22-13.50.46:149][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.22-13.50.46:149][331]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.22-13.50.46:149][331]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.22-13.50.46:149][331]LogWorldPartition: Display: GetPartitionedActors took 97 us
+[2023.01.22-13.50.46:151][331]LogWorldPartition: Display: GenerateStreaming took 2 ms
+[2023.01.22-13.50.46:152][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.22-13.50.46:152][331]PIE: New page: PIE session: ThirdPersonMap (22 Jan 2023, 13:50:46)
+[2023.01.22-13.50.46:152][331]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.22-13.50.46:380][331]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.22-13.50.46:380][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228574s)
+[2023.01.22-13.50.46:381][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.228684s)
+[2023.01.22-13.50.46:381][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-13.50.46:381][331]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.22-13.50.46:391][331]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.22-13.50.46:391][331]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.22-13.50.46:462][331]LogWorldPartition: Display: WorldPartition initialize took 70 ms
+[2023.01.22-13.50.46:462][331]LogPlayLevel: PIE: World Init took: (0.081465s)
+[2023.01.22-13.50.46:689][331]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2023.01.22-13.50.46:702][331]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.22-13.50.46:703][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.22-13.50.46:703][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.22-13.50.46:703][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.22-13.50.46:703][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.22-13.50.46:703][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.22-13.50.46:719][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.22-13.50.46:751][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.01.22-13.50.46:751][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.22-13.50.46:752][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.22-13.50.46:752][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.22-13.50.46:752][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.01.22-13.50.46:752][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.01.22-13.50.46:754][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.01.22-13.50.46:754][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.01.22-13.50.46:754][331]LogInit: FAudioDevice initialized.
+[2023.01.22-13.50.46:754][331]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2023.01.22-13.50.46:772][331]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.22-13.50.47:519][331]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.01.22-13.50.47
+[2023.01.22-13.50.47:589][331]LogWorld: Bringing up level for play took: 0.817669
+[2023.01.22-13.50.47:592][331]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.01.22-13.50.47:596][331]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1575.510 Y=-195.906 Z=-53.728
+[2023.01.22-13.50.47:596][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.22-13.50.47:637][331]PIE: Server logged in
+[2023.01.22-13.50.47:638][331]PIE: Play in editor total start time 1.545 seconds.
+[2023.01.22-13.51.33:470][602]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-22.60 Y=-43.19 Z=0.00 Location: X=-1941.37 Y=-1812.11 Z=-97.11 Normal: X=0.93 Y=-0.28 Z=0.23 PenetrationDepth:0.111 Actor:BreakableWall_C_UAID_2CF05DA8F26EDC5B01_2013960987 Component:BreakableChurchWall BoneName:None (0 other events since notify)
+[2023.01.22-13.52.48:828][835]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.52.48:829][835]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.52.48:829][835]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.52.49:081][837]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.52.49:081][837]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.52.49:081][837]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.52.49:081][837]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.01.22-13.53.00:751][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-13.53.00:751][968]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.22-13.53.00:776][968]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.53.00:849][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.53.00:891][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.22-13.53.00:906][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.53.01:040][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.22-13.53.01:052][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.01.22-13.53.01:057][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.01.22-13.53.01:063][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-13.53.01:279][968]LogUObjectHash: Compacting FUObjectHashTables data took  19.81ms
+[2023.01.22-13.53.01:463][969]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.01.22-13.53.38:687][568]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_0897986C5487455F01_1839581638 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0B/G2FVAWTOAOY3IVDZGDOALV.PackageMetaData in its package
+[2023.01.22-13.53.38:704][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.01.22-13.53.38:810][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.01.22-13.53.38:903][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.01.22-13.53.39:025][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Q6/1V28BTVQ8HGJJBWB8H5YQZ
+[2023.01.22-13.53.39:050][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/1V28BTVQ8HGJJBWB8H5YQZ6B122A3E481B6926B6C9F69DB5F610F6.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Q6/1V28BTVQ8HGJJBWB8H5YQZ.uasset'
+[2023.01.22-13.53.39:395][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W6/SBC25UCJF969V5JLVUZNHR
+[2023.01.22-13.53.39:399][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/SBC25UCJF969V5JLVUZNHRF58682C147E8F74D832A0F85DF568A4A.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W6/SBC25UCJF969V5JLVUZNHR.uasset'
+[2023.01.22-13.53.39:420][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/J6/UNTUYJ7EU4B34PAN0QYZ74
+[2023.01.22-13.53.39:422][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/UNTUYJ7EU4B34PAN0QYZ749EA60BC248206F5139C8F18819710BB3.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/J6/UNTUYJ7EU4B34PAN0QYZ74.uasset'
+[2023.01.22-13.53.39:437][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2Y/KY37CSO4QKVKEDU2X780WK
+[2023.01.22-13.53.39:440][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/KY37CSO4QKVKEDU2X780WK70534BF3412D914CE8121CA4FD727BE5.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2Y/KY37CSO4QKVKEDU2X780WK.uasset'
+[2023.01.22-13.53.39:445][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OC/9SVNU96K6384QXZGLSNWN9
+[2023.01.22-13.53.39:447][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/9SVNU96K6384QXZGLSNWN9E2057C6040052C3E258DACAE2B0C3353.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OC/9SVNU96K6384QXZGLSNWN9.uasset'
+[2023.01.22-13.53.39:452][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AL/JBXG4NQE8169KUCASS3Y2U
+[2023.01.22-13.53.39:453][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/JBXG4NQE8169KUCASS3Y2UF4EAA52C4B8AEA11A4F128B1AEF8F107.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AL/JBXG4NQE8169KUCASS3Y2U.uasset'
+[2023.01.22-13.53.39:458][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4Q/XM5EWC3UJTP0GQSQXP2CVG
+[2023.01.22-13.53.39:459][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/XM5EWC3UJTP0GQSQXP2CVGBDC525CF4BCC46A66756A3BF0856ABB9.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4Q/XM5EWC3UJTP0GQSQXP2CVG.uasset'
+[2023.01.22-13.53.39:514][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7Y/ACYDRDHQ5KV52DXFD0XWIC
+[2023.01.22-13.53.39:514][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/ACYDRDHQ5KV52DXFD0XWICC6483B374DBC7F72470C8F8F045C31A1.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7Y/ACYDRDHQ5KV52DXFD0XWIC.uasset'
+[2023.01.22-13.53.39:517][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3U/ENUHZ4N3RSY3FRYURD4XTE
+[2023.01.22-13.53.39:517][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/ENUHZ4N3RSY3FRYURD4XTE2988337740DAD647F7543687990572A6.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3U/ENUHZ4N3RSY3FRYURD4XTE.uasset'
+[2023.01.22-13.53.39:539][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LM/IRN4FEBL4D8FST2I8U4LGF
+[2023.01.22-13.53.39:539][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/IRN4FEBL4D8FST2I8U4LGF8F6560AC4DF4613D507EC8BC352DD5A9.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LM/IRN4FEBL4D8FST2I8U4LGF.uasset'
+[2023.01.22-13.53.39:542][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OQ/IEN06FDJTIKMOQZPNVMGEL
+[2023.01.22-13.53.39:542][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/IEN06FDJTIKMOQZPNVMGEL357D81C14DEB113D8DCAAD8BD7206474.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OQ/IEN06FDJTIKMOQZPNVMGEL.uasset'
+[2023.01.22-13.53.39:545][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U8/MXLLS7I10Q4D8N3BJ8N688
+[2023.01.22-13.53.39:545][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/MXLLS7I10Q4D8N3BJ8N6888DE42A7446366900C3C64E94D3FDE556.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U8/MXLLS7I10Q4D8N3BJ8N688.uasset'
+[2023.01.22-13.53.39:548][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KC/XEZCY8SPT7Z0ISTE2QLATS
+[2023.01.22-13.53.39:548][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/XEZCY8SPT7Z0ISTE2QLATS79C774E1471AD9D34EE1C4B82EB51AAF.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KC/XEZCY8SPT7Z0ISTE2QLATS.uasset'
+[2023.01.22-13.53.39:551][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/ZB0VDTU2GJE3K7RGRZGWYK
+[2023.01.22-13.53.39:551][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/ZB0VDTU2GJE3K7RGRZGWYK85083A9D45F31ED980B8A6B6467E3BBC.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V9/ZB0VDTU2GJE3K7RGRZGWYK.uasset'
+[2023.01.22-13.53.39:554][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/YS/1OXUMHKNVIC2Q2K75B077B
+[2023.01.22-13.53.39:554][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/1OXUMHKNVIC2Q2K75B077BB92D484D4B56C465EBF135B27D268EDC.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/YS/1OXUMHKNVIC2Q2K75B077B.uasset'
+[2023.01.22-13.53.39:557][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Y2/H66KCCBJGHM8DYXW456GNP
+[2023.01.22-13.53.39:557][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/H66KCCBJGHM8DYXW456GNPDEC01382467D9117095A1483B34B8A9B.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Y2/H66KCCBJGHM8DYXW456GNP.uasset'
+[2023.01.22-13.53.39:560][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EJ/49NWXCVBSVX5BO92FMRZ76
+[2023.01.22-13.53.39:560][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/49NWXCVBSVX5BO92FMRZ762A1D8BB3495B8A4D3F51B1A9245A6CDB.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EJ/49NWXCVBSVX5BO92FMRZ76.uasset'
+[2023.01.22-13.53.39:563][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/M4/VW5LN04F6U25DN7NGC6DCW
+[2023.01.22-13.53.39:563][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/VW5LN04F6U25DN7NGC6DCWC62C9D6F489B2DB0F4DFE5BBC82BF08F.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/M4/VW5LN04F6U25DN7NGC6DCW.uasset'
+[2023.01.22-13.53.39:581][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NE/5YMHSAYO2U88LHW80V712X
+[2023.01.22-13.53.39:581][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/5YMHSAYO2U88LHW80V712X1BF643FD46E31DAC8C9097ACBF1FDCC2.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NE/5YMHSAYO2U88LHW80V712X.uasset'
+[2023.01.22-13.53.39:585][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B5/CE4OZSKTDXORMJYO2W3AVG
+[2023.01.22-13.53.39:585][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/CE4OZSKTDXORMJYO2W3AVG22A8CA2143CB3A64511005B85C468D71.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B5/CE4OZSKTDXORMJYO2W3AVG.uasset'
+[2023.01.22-13.53.39:602][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IP/VCDLEN8D84SV8AR8PSCYRP
+[2023.01.22-13.53.39:602][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/VCDLEN8D84SV8AR8PSCYRP7ED8DC24471785654E53338EE6FD519B.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IP/VCDLEN8D84SV8AR8PSCYRP.uasset'
+[2023.01.22-13.53.39:605][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TR/ZQTPZNMIRNZZMPWHH62HEE
+[2023.01.22-13.53.39:605][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/ZQTPZNMIRNZZMPWHH62HEE4F2C8DF94357A7BDFE751CBA9F06961C.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TR/ZQTPZNMIRNZZMPWHH62HEE.uasset'
+[2023.01.22-13.53.39:625][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/UJ/RRRYYBM33NI1IZFVEBA6EQ
+[2023.01.22-13.53.39:625][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/RRRYYBM33NI1IZFVEBA6EQ21A9779445E35DCF80F64F8334480B67.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/UJ/RRRYYBM33NI1IZFVEBA6EQ.uasset'
+[2023.01.22-13.53.39:629][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NQ/DIKNV8638HGT45SBWBFEVE
+[2023.01.22-13.53.39:629][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/DIKNV8638HGT45SBWBFEVEE5A5AB2E414757F5F26DF697EE59C484.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NQ/DIKNV8638HGT45SBWBFEVE.uasset'
+[2023.01.22-13.53.39:633][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J9/RFT4LG5DKBEKA5J588P9UR
+[2023.01.22-13.53.39:633][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/RFT4LG5DKBEKA5J588P9URB005C1094EC4D56FEE4854AD2903C1F0.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J9/RFT4LG5DKBEKA5J588P9UR.uasset'
+[2023.01.22-13.53.39:637][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W1/31455E4A7ZESC57KKFNRC7
+[2023.01.22-13.53.39:637][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/31455E4A7ZESC57KKFNRC75229D11C49F5553F87863B8672E9ACB4.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W1/31455E4A7ZESC57KKFNRC7.uasset'
+[2023.01.22-13.53.39:641][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1M/5SOTBGW8G1NQX38NTJRGQL
+[2023.01.22-13.53.39:641][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/5SOTBGW8G1NQX38NTJRGQL1EC3E54B4DE86E7E9AEF428A66B0649C.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1M/5SOTBGW8G1NQX38NTJRGQL.uasset'
+[2023.01.22-13.53.39:645][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/32/NRCOWXPXVR97HH9H8CQ6DY
+[2023.01.22-13.53.39:645][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/NRCOWXPXVR97HH9H8CQ6DY35439346488583E6E585DD89A01FB6E0.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/32/NRCOWXPXVR97HH9H8CQ6DY.uasset'
+[2023.01.22-13.53.39:649][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QZ/IDOBAZQ2SOLFY3RM0BCKAH
+[2023.01.22-13.53.39:649][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/IDOBAZQ2SOLFY3RM0BCKAH4DB5107745E1D0EA07FCCBA51EE2D7DF.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QZ/IDOBAZQ2SOLFY3RM0BCKAH.uasset'
+[2023.01.22-13.53.39:654][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/12/CJPMFNUY519W23EJ11P40L
+[2023.01.22-13.53.39:654][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/CJPMFNUY519W23EJ11P40L952CC2534B8708859E1C7CA93F3CDA2D.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/12/CJPMFNUY519W23EJ11P40L.uasset'
+[2023.01.22-13.53.39:672][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/U6/WBDF6Z38NBNS0Z08IOB0T1
+[2023.01.22-13.53.39:672][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/WBDF6Z38NBNS0Z08IOB0T1A988959849BB86EEA320BC89D2318D06.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/U6/WBDF6Z38NBNS0Z08IOB0T1.uasset'
+[2023.01.22-13.53.39:676][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JE/W4I2ELZNFKUZZDKBK35BUL
+[2023.01.22-13.53.39:676][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/W4I2ELZNFKUZZDKBK35BUL74A8E57B48062A8F5686B9BCED044F1B.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JE/W4I2ELZNFKUZZDKBK35BUL.uasset'
+[2023.01.22-13.53.39:680][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9W/UMTIMKLGRJO0E7XHBV0VMI
+[2023.01.22-13.53.39:680][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/UMTIMKLGRJO0E7XHBV0VMI48598CC24965891BBEC80B963A26435E.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9W/UMTIMKLGRJO0E7XHBV0VMI.uasset'
+[2023.01.22-13.53.39:684][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2O/52UGSNL5JZW2R1LYWZ6U87
+[2023.01.22-13.53.39:684][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/52UGSNL5JZW2R1LYWZ6U870E874F564FAE880655DF01934360EA33.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2O/52UGSNL5JZW2R1LYWZ6U87.uasset'
+[2023.01.22-13.53.39:703][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/H3/9EPJDA4RTRKFSFUC9DKGJ8
+[2023.01.22-13.53.39:703][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/9EPJDA4RTRKFSFUC9DKGJ8DE11E38D42EDA61AFF1324A400974F84.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/H3/9EPJDA4RTRKFSFUC9DKGJ8.uasset'
+[2023.01.22-13.53.39:706][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/70/1HMI7TRFUEFJ7D394T45ED
+[2023.01.22-13.53.39:707][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/1HMI7TRFUEFJ7D394T45ED1BD27C8D483F388326F0FD8BE0E00EAE.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/70/1HMI7TRFUEFJ7D394T45ED.uasset'
+[2023.01.22-13.53.39:713][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TF/J6RBCJ2XSM6EUQ9G7EYTRK
+[2023.01.22-13.53.39:713][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/J6RBCJ2XSM6EUQ9G7EYTRKAB658964419EED03E35A0DBA5A114B8E.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TF/J6RBCJ2XSM6EUQ9G7EYTRK.uasset'
+[2023.01.22-13.53.39:762][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1O/8OGDEFBYMK16SF69AQHU74
+[2023.01.22-13.53.39:762][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/8OGDEFBYMK16SF69AQHU74DF8F87084132E1657BCB4098C31D5E5F.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1O/8OGDEFBYMK16SF69AQHU74.uasset'
+[2023.01.22-13.53.39:766][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/E7/59XV2ADZNBKR32XMKYS9EC
+[2023.01.22-13.53.39:766][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/59XV2ADZNBKR32XMKYS9EC1F9E92C14997AEDBF5601CAE9973C2A5.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/E7/59XV2ADZNBKR32XMKYS9EC.uasset'
+[2023.01.22-13.53.39:784][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KQ/U4D9R17Z6UGT63GF5WFLA8
+[2023.01.22-13.53.39:784][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/U4D9R17Z6UGT63GF5WFLA86E5ABD69479A98F7CC17789D7EAE66B7.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KQ/U4D9R17Z6UGT63GF5WFLA8.uasset'
+[2023.01.22-13.53.39:801][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/C5/W6V4GG7ZQ16B32V2VHGR9X
+[2023.01.22-13.53.39:801][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/W6V4GG7ZQ16B32V2VHGR9XA1D5BCA54592F0AF7EEFE49AFD555376.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/C5/W6V4GG7ZQ16B32V2VHGR9X.uasset'
+[2023.01.22-13.53.39:805][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/32/73V0WT9LRXA4R9URQ7NEGR
+[2023.01.22-13.53.39:805][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/73V0WT9LRXA4R9URQ7NEGRF459F7294C0E1DBF726C1D8C3AA2173D.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/32/73V0WT9LRXA4R9URQ7NEGR.uasset'
+[2023.01.22-13.53.39:809][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/D91A56PZYGTAJR69SLUW96
+[2023.01.22-13.53.39:809][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/D91A56PZYGTAJR69SLUW9685B07E634E589F4D0C202AAB008BEAA8.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/D91A56PZYGTAJR69SLUW96.uasset'
+[2023.01.22-13.53.39:813][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7V/45Y7RSE8ZBJ58PMOFNXXMP
+[2023.01.22-13.53.39:814][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/45Y7RSE8ZBJ58PMOFNXXMPB410027B4699AD5317E2EAA87AA86704.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7V/45Y7RSE8ZBJ58PMOFNXXMP.uasset'
+[2023.01.22-13.53.39:817][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NG/Q78E5SIV84B53RVZZ21V0U
+[2023.01.22-13.53.39:817][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/Q78E5SIV84B53RVZZ21V0U3212D1634523D02CA58C33A42A5DD2BF.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NG/Q78E5SIV84B53RVZZ21V0U.uasset'
+[2023.01.22-13.53.39:836][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6J/XE7J8DEL5ELWXM1APOTU1K
+[2023.01.22-13.53.39:836][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/XE7J8DEL5ELWXM1APOTU1K78DBE8474336C92DE1286889D4BCCE37.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6J/XE7J8DEL5ELWXM1APOTU1K.uasset'
+[2023.01.22-13.53.39:854][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SF/D7NM53BYBAZ7PXC1PGJXDC
+[2023.01.22-13.53.39:854][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/D7NM53BYBAZ7PXC1PGJXDC064D5DDC458AF98E1DDD07BB761894B5.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SF/D7NM53BYBAZ7PXC1PGJXDC.uasset'
+[2023.01.22-13.53.39:872][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/05/98TJ55J0TIXUVK034XKW6L
+[2023.01.22-13.53.39:873][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/98TJ55J0TIXUVK034XKW6L8D61EDC04E2490CAAF3AB1986FBF882A.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/05/98TJ55J0TIXUVK034XKW6L.uasset'
+[2023.01.22-13.53.39:876][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DI/YDO9L4WEDH2MLU9JU6I87B
+[2023.01.22-13.53.39:876][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/YDO9L4WEDH2MLU9JU6I87B891C55A04D3D4B5572F7FEBB3DAA52DE.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DI/YDO9L4WEDH2MLU9JU6I87B.uasset'
+[2023.01.22-13.53.39:880][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WD/40QD73TSIDZE2A39AJ1Q0V
+[2023.01.22-13.53.39:880][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/40QD73TSIDZE2A39AJ1Q0V284FB8A041C0B082E7A0258D9873A0F6.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WD/40QD73TSIDZE2A39AJ1Q0V.uasset'
+[2023.01.22-13.53.39:884][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H3/00W5UFDCL0PJKU11FO0EOX
+[2023.01.22-13.53.39:884][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/00W5UFDCL0PJKU11FO0EOX25D89FA44D3478FC5383A99B448CE2B0.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H3/00W5UFDCL0PJKU11FO0EOX.uasset'
+[2023.01.22-13.53.39:887][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8N/YNSPM7Z6X0HD1ZRCPRKIG3
+[2023.01.22-13.53.39:887][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/YNSPM7Z6X0HD1ZRCPRKIG3D1159BA74BB1EC62E5E05FBD1BDCFBA4.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8N/YNSPM7Z6X0HD1ZRCPRKIG3.uasset'
+[2023.01.22-13.53.39:891][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/VV/9OHOEG033FQ2N46MQECZ35
+[2023.01.22-13.53.39:891][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/9OHOEG033FQ2N46MQECZ358092A7294D6E8B04B7AA7AA4A147F72F.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/VV/9OHOEG033FQ2N46MQECZ35.uasset'
+[2023.01.22-13.53.39:895][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DO/X4D4FMR2DBJJW5RC0DKFIN
+[2023.01.22-13.53.39:895][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/X4D4FMR2DBJJW5RC0DKFIN1828E4404B7ACD21261596AB3F852C5E.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DO/X4D4FMR2DBJJW5RC0DKFIN.uasset'
+[2023.01.22-13.53.39:912][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/N6/ILL6WUGA8VWPI94CDOX6UX
+[2023.01.22-13.53.39:912][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/ILL6WUGA8VWPI94CDOX6UXAB85D689404A02F6FCB21DB8D88F1E54.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/N6/ILL6WUGA8VWPI94CDOX6UX.uasset'
+[2023.01.22-13.53.39:916][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IL/IO1R6ZSV6I36RI7M2PANPE
+[2023.01.22-13.53.39:916][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/IO1R6ZSV6I36RI7M2PANPEA1E0CD6449C557B2BB1347AFC2748892.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IL/IO1R6ZSV6I36RI7M2PANPE.uasset'
+[2023.01.22-13.53.39:920][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QU/4HHF6YKJHELN9NNVAZQGY9
+[2023.01.22-13.53.39:920][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/4HHF6YKJHELN9NNVAZQGY9766FE85E4EDB5D2F7D30C2A5377A7C90.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QU/4HHF6YKJHELN9NNVAZQGY9.uasset'
+[2023.01.22-13.53.39:924][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W4/ERF7OFOH754OKBYLAZ7NI7
+[2023.01.22-13.53.39:924][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/ERF7OFOH754OKBYLAZ7NI7FD47589E43605251570BEA9AFFCDB104.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W4/ERF7OFOH754OKBYLAZ7NI7.uasset'
+[2023.01.22-13.53.39:942][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/6I/I6NX6RJRHE0FPQ8AEUQJDB
+[2023.01.22-13.53.39:942][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/I6NX6RJRHE0FPQ8AEUQJDBE5C3AF614C1A430D61C209857266BE3E.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/6I/I6NX6RJRHE0FPQ8AEUQJDB.uasset'
+[2023.01.22-13.53.39:945][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F8/W4R0IHNA907G2H2MWYXPF9
+[2023.01.22-13.53.39:946][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/W4R0IHNA907G2H2MWYXPF9365C94AF4FBD7BBB786D788640071AD5.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F8/W4R0IHNA907G2H2MWYXPF9.uasset'
+[2023.01.22-13.53.39:949][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9X/H6E3ONMMJGYG6CTM8VWHOE
+[2023.01.22-13.53.39:949][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/H6E3ONMMJGYG6CTM8VWHOE10A3EED5474716ED6D379DAFFBCD25B9.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9X/H6E3ONMMJGYG6CTM8VWHOE.uasset'
+[2023.01.22-13.53.40:021][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/S7/RAWUWNJEYCUGA9AY7YR7XD
+[2023.01.22-13.53.40:021][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/RAWUWNJEYCUGA9AY7YR7XD5FE982D24E8C6F8BE55CA09DE1B11D91.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/S7/RAWUWNJEYCUGA9AY7YR7XD.uasset'
+[2023.01.22-13.53.40:025][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/F3/4VZ0OFFJ4FW9J4GZ62TR2D
+[2023.01.22-13.53.40:025][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/4VZ0OFFJ4FW9J4GZ62TR2DC4F2C3AB4F7193FA0BDEF3BD0790D8F0.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/F3/4VZ0OFFJ4FW9J4GZ62TR2D.uasset'
+[2023.01.22-13.53.40:044][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/68/9OI60I7RYGCOV4RYUNPL7K
+[2023.01.22-13.53.40:044][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/9OI60I7RYGCOV4RYUNPL7K2590B1EE4013EE2A18D9169722B59BCD.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/68/9OI60I7RYGCOV4RYUNPL7K.uasset'
+[2023.01.22-13.53.40:063][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/53/GRZ5GSEJALMEZPI1PCFOUA
+[2023.01.22-13.53.40:063][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/GRZ5GSEJALMEZPI1PCFOUA21559CDF493394ED7E5871B14B08260D.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/53/GRZ5GSEJALMEZPI1PCFOUA.uasset'
+[2023.01.22-13.53.40:067][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z7/W44V5NOTAGORZT61EPJWTP
+[2023.01.22-13.53.40:067][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/W44V5NOTAGORZT61EPJWTP7C6D35E4432AE08AFBF9AD8033018074.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z7/W44V5NOTAGORZT61EPJWTP.uasset'
+[2023.01.22-13.53.40:071][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/NN/C1BGQAEM2C0K5Z1NDIZ6WS
+[2023.01.22-13.53.40:071][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/C1BGQAEM2C0K5Z1NDIZ6WS6A40B0CE4B8DB6FEF6E121A3CA5DCEE3.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/NN/C1BGQAEM2C0K5Z1NDIZ6WS.uasset'
+[2023.01.22-13.53.40:075][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZF/BPTOAL2FA8VVZI0EB932Z9
+[2023.01.22-13.53.40:075][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/BPTOAL2FA8VVZI0EB932Z9E9D7A0FC4C72E1EA2D7F33A7F4DE5669.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZF/BPTOAL2FA8VVZI0EB932Z9.uasset'
+[2023.01.22-13.53.40:078][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/X3/AZYOCBO8PRLN6K66L0G92N
+[2023.01.22-13.53.40:078][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/AZYOCBO8PRLN6K66L0G92N4F4AF3AD4682C21649D8C2849CF8DB0D.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/X3/AZYOCBO8PRLN6K66L0G92N.uasset'
+[2023.01.22-13.53.40:096][568]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RB/LV17XA2S57441SLMR9IA6H
+[2023.01.22-13.53.40:096][568]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/LV17XA2S57441SLMR9IA6HBF886F4A439E6E6420E03F97F9B145EF.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RB/LV17XA2S57441SLMR9IA6H.uasset'
+[2023.01.22-13.53.40:446][568]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0897986C5487EC4901_1751353791
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_9XFDHLT1QD1X2SQFRIIUUNB22_1_1_0_0
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487415F01_1078297920
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487415F01_1773931921
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating Bag_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bag_C_UAID_0897986C5487455F01_2133467641
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487435F01_1317502277
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487425F01_1324785100
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487445F01_1574527457
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975878869
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975878868
+[2023.01.22-13.53.40:446][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975877867
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975876866
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975874865
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975872864
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975569863
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975569862
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975568861
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975567860
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975566859
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975564858
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975561857
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975560856
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975557855
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975556854
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975554853
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1975554852
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975553851
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975551850
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975550849
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975548848
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1975547847
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1975543846
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935467845
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935465844
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935464843
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935463842
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935461841
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935458840
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935457839
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935456838
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935456837
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935454836
+[2023.01.22-13.53.40:447][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935452835
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935450834
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935448833
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935446832
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935444831
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935442830
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935441829
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_1935440828
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935439827
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935437826
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935435825
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935433824
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_0897986C5487465F01_1935431823
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating DestructableHouseCage_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DestructableHouse_C_UAID_0897986C5487465F01_1935420822
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0897986C5487465F01_1083997818
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_1629816821
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_0897986C5487465F01_1578542820
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0897986C5487455F01_1797703637
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487455F01_1520718636
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487455F01_1447319635
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_1195743819
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating WallLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WallLight_C_UAID_0897986C5487455F01_1870462640
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating WallLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WallLight_C_UAID_0897986C5487455F01_1853708639
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487465F01_2018119870
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_0897986C5487465F01_2071464871
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating MissionTrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MissionTrigger_C_UAID_0897986C5487475F01_1234274048
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_0897986C5487475F01_1294630049
+[2023.01.22-13.53.40:448][568]LogContentValidation: Display: Validating PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_0897986C5487475F01_1307618050
+[2023.01.22-13.53.40:565][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.01.22-13.53.46:872][612]LogSlate: Window 'Message' being destroyed
+[2023.01.22-13.53.46:885][612]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Level/MiniMapTarget_Mat.MiniMapTarget_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2023.01.22-13.53.53:534][612]LogMaterial: Display: Missing cached shadermap for Preview:MiniMapTarget_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 301A35B937F5FDD3AA9A12C767C0FB764EA062B3), compiling. 
+[2023.01.22-13.53.53:964][612]LogMaterial: Display: Missing cached shadermap for MiniMapTarget_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 80159EC9D694DFFBEE675BF2E766E9FB8143F03D), compiling. 
+[2023.01.22-13.53.54:466][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.22-13.53.56:805][612]LogSlate: Window 'Message' being destroyed
+[2023.01.22-13.53.56:816][612]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Level/MiniMapTarget_Mat.MiniMapTarget_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2023.01.22-13.53.57:492][612]LogMaterial: Display: Missing cached shadermap for Preview:MiniMapTarget_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3D7746BFF86425B03826400CEC66C5A282AC30F8), compiling. 
+[2023.01.22-13.53.57:541][612]LogMaterial: Display: Missing cached shadermap for MiniMapTarget_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6B9C702BA191590D5B9B3B80FE64AF39636C932C), compiling. 
+[2023.01.22-13.53.57:771][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.01.22-13.53.57:995][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.22-13.53.58:326][612]LogSlate: Window 'Bag' being destroyed
+[2023.01.22-13.53.58:331][612]LogSlate: Window 'Bag' being destroyed
+[2023.01.22-13.53.58:450][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.01.22-13.53.59:263][612]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.53.59:263][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.00:588][612]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.00:588][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.00:632][612]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.00:633][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.01:209][612]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.01:209][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.01:604][612]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.22-13.54.01:604][612]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.01:604][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.01:866][612]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.22-13.54.01:866][612]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.01:866][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.02:062][612]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.22-13.54.02:062][612]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.02:062][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.02:212][612]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.22-13.54.02:212][612]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.02:212][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-13.54.02:571][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.01.22-13.54.04:098][612]LogSlate: Window 'Save Content' being destroyed
+[2023.01.22-13.54.04:224][612]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/perwi/CubeGridToolOutput_58F1C635
+[2023.01.22-13.54.04:224][612]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/CubeGridToolOutput_58F1C6350C5750AB49EB4E2A2A4355A72A496E8D.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/ThirdPerson/Maps/_GENERATED/perwi/CubeGridToolOutput_58F1C635.uasset'
+[2023.01.22-13.54.04:739][612]LogShaderCompilers: Display: ================================================
+[2023.01.22-13.54.04:739][612]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-13.54.04:739][612]LogShaderCompilers: Display: Total job queries 102, among them cache hits 42 (41.18%)
+[2023.01.22-13.54.04:739][612]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 40 distinct outputs (78.43%)
+[2023.01.22-13.54.04:747][612]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.02%
+[2023.01.22-13.54.04:755][612]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-13.54.04:755][612]LogShaderCompilers: Display: Shaders Compiled: 58
+[2023.01.22-13.54.04:755][612]LogShaderCompilers: Display: Jobs assigned 51, completed 51 (100.00%)
+[2023.01.22-13.54.04:755][612]LogShaderCompilers: Display: Average time worker was idle: 101.88 s
+[2023.01.22-13.54.04:760][612]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 2.28 s
+[2023.01.22-13.54.04:760][612]LogShaderCompilers: Display: Job execution time: average 9.37 s, max 18.34 s
+[2023.01.22-13.54.04:760][612]LogShaderCompilers: Display: Job life time (pending + execution): average 9.62 s, max 18.35
+[2023.01.22-13.54.04:760][612]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.85 s
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.70 jobs/batch
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display: Average processing rate: 1.77 jobs/sec
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 2.14 sec, max 2.14 sec, min 2.14 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.66 sec, max 2.18 sec, min 1.14 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.84% of total time (compiled    4 times, average 1.46 sec, max 2.20 sec, min 1.09 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.07% of total time (compiled    4 times, average 1.35 sec, max 2.15 sec, min 0.93 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.25% of total time (compiled    3 times, average 1.66 sec, max 2.18 sec, min 1.14 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.24% of total time (compiled    3 times, average 0.94 sec, max 1.34 sec, min 0.43 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.15% of total time (compiled    2 times, average 1.11 sec, max 1.23 sec, min 1.00 sec)
+[2023.01.22-13.54.04:761][612]LogShaderCompilers: Display: ================================================
+[2023.01.22-13.54.04:764][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MiniMapTarget_Mat" FILE="../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/Level/MiniMapTarget_Mat.uasset" SILENT=true
+[2023.01.22-13.54.04:774][612]LogSavePackage: Moving output files for package: /Game/Level/MiniMapTarget_Mat
+[2023.01.22-13.54.04:792][612]LogSavePackage: Moving '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Saved/MiniMapTarget_MatBC60A73A4FE5FF89B1D6AE946B14F03C.tmp' to '../../../../../UEProjects/GameLevelDesign/GameLevelDesign/Content/Level/MiniMapTarget_Mat.uasset'
+[2023.01.22-13.54.04:958][612]LogStall: Shutdown...
+[2023.01.22-13.54.05:004][612]LogStall: Shutdown complete.
+[2023.01.22-13.54.05:172][612]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-13.54.05:182][612]LogSlate: Window 'Output Log' being destroyed
+[2023.01.22-13.54.05:262][612]LogSlate: Window 'GameLevelDesign - Unreal Editor' being destroyed
+[2023.01.22-13.54.05:933][612]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.22-13.54.05:933][612]LogContentValidation: Display: Validating Material /Game/Level/MiniMapTarget_Mat.MiniMapTarget_Mat
+[2023.01.22-13.54.05:933][612]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/Maps/_GENERATED/perwi/CubeGridToolOutput_58F1C635.CubeGridToolOutput_58F1C635
+[2023.01.22-13.54.05:935][613]Cmd: QUIT_EDITOR
+[2023.01.22-13.54.05:957][613]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.22-13.54.06:193][613]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.22-13.54.06:240][613]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.01.22-13.54.06:257][613]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.01.22-13.54.08:154][613]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.22-13.54.08:154][613]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.22-13.54.08:154][613]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.01.22-13.54.08:179][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.22-13.54.08:180][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.22-13.54.08:217][613]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.22-13.54.08:292][613]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.22-13.54.08:469][613]LogExit: Preparing to exit.
+[2023.01.22-13.54.09:272][613]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2023.01.22-13.54.09:308][613]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:321][613]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:410][613]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:412][613]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:412][613]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:412][613]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:412][613]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:413][613]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:413][613]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:413][613]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.09:413][613]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.22-13.54.12:658][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:658][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:658][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:658][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:658][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:658][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:659][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:660][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:661][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:661][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:662][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:663][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:664][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:665][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:666][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:666][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:666][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:666][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:666][613]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.22-13.54.12:666][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.12:813][613]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-13.54.13:795][613]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.22-13.54.14:446][613]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.01.22-13.54.14:531][613]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.01.22-13.54.14:667][613]LogExit: Editor shut down
+[2023.01.22-13.54.14:723][613]LogExit: Transaction tracking system shut down
